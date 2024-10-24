@@ -8,3 +8,6 @@ Profile Page
 
 Register Page
 ![Screenshot project_uts](images/register.png)
+
+Muncul Pop-Up saat klik Register
+![Screenshot project_uts](images/pop-up.png)
