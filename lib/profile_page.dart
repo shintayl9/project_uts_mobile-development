@@ -49,7 +49,7 @@ class ProfilePage extends StatelessWidget {
               SizedBox(height: 30),
               ElevatedButton(
                 onPressed: () {
-                  Navigator.of(context).pop();
+                  SystemNavigator.pop();
                 },
                 child: Text('Keluar'),
               )
